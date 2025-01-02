@@ -1,6 +1,4 @@
-                       # CS 5007 HW5
-                   #Name: KAMAL DHITAL
-                       # Email:kkdhital@wpi.edu
+                     # Email:kkdhital@wpi.edu
 
 
 import csv
